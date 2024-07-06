@@ -1,0 +1,2465 @@
+entities,classification
+system,CORE
+display,HARDWARE
+refresh,VERB
+projection screen,HARDWARE
+viewers,USER
+Event,CORE
+Activity,CORE
+viewing distance,HARDWARE
+product,SOFTWARE
+user,USER
+client,HARDWARE
+Events,CORE
+Activities,CORE
+SOFTWARE,SOFTWARE
+CORE,CORE
+graph,SOFTWARE
+data table,SOFTWARE
+MSEL,SOFTWARE
+Sync Matrix 1.0,SOFTWARE
+Exercise Management Tool 1.0,SOFTWARE
+Exercise Managment Tool 1.0,SOFTWARE
+applications,SOFTWARE
+modifications,CORE
+clocks,HARDWARE
+smart device,HARDWARE
+INTERFACE,SOFTWARE
+MENUS,SOFTWARE
+BUTTONS,HARDWARE
+NAVIGATION,CORE
+realtor,USER
+contacts,CORE
+appointments,CORE
+office,SOFTWARE
+HARDWARE,HARDWARE
+VERB,VERB
+users,USER
+untrained,USER
+instructions,SOFTWARE
+device,HARDWARE
+Windows CE,SOFTWARE
+Palm,SOFTWARE
+realtors,USER
+data,CORE
+PROPERTY,CORE
+clients,USER
+MLS,SOFTWARE
+office system,CORE
+map,HARDWARE
+area,CORE
+seller,USER
+buyer,USER
+Program Administrators,USER
+Nursing Staff Members,USER
+student,USER
+students,USER
+classes,CORE
+clinicals,CORE
+Staff,USER
+schedule,CORE
+nursing students,USER
+curriculum,CORE
+class,CORE
+clinical,CORE
+scheduling,CORE
+computers,HARDWARE
+Windows XP Professional,SOFTWARE
+HTML browser,SOFTWARE
+Program,SOFTWARE
+Administrators,USER
+Nursing,USER
+Members,USER
+Dr Susan Poslusny,USER
+Dr Julie Donalek,USER
+personal information,CORE
+Karen Sysol,USER
+CampusConnect,SOFTWARE
+virus protection software,SOFTWARE
+Program of Study,SOFTWARE
+cohort,USER
+sequence,CORE
+clinical classes,CORE
+sections,CORE
+Department,USER
+course name,CORE
+lecture room,HARDWARE
+instructor,USER
+clinical site,CORE
+lecture instructor,USER
+clinical lab instructor,USER
+Study,SOFTWARE
+non-clinical,SOFTWARE
+report,SOFTWARE
+programs,SOFTWARE
+labs,CORE
+room,HARDWARE
+site,CORE
+contact person,USER
+clinical site name,CORE
+Lab,CORE
+Section,CORE
+Program Administrator,USER
+Nursing staff,USER
+clinical lab,CORE
+Nursing Staff Member,USER
+Clinical lab section,CORE
+Clinical class,CORE
+staff member,USER
+part time student,USER
+sequence of classes,CORE
+timeline of classes,CORE
+progress,VERB
+timeline,SOFTWARE
+completion,SOFTWARE
+location,CORE
+log,SOFTWARE
+lecture,USER
+instructors,USER
+e-mail addresses,SOFTWARE
+capacity,SOFTWARE
+cancellations,SOFTWARE
+offerings,VERB
+cohort identifier,USER
+quarters,CORE
+site contact person,USER
+address,USER
+modify,VERB
+phone,HARDWARE
+Disputes,SOFTWARE
+application,SOFTWARE
+creation,CORE
+Screens,HARDWARE
+dispute cases,CORE
+search,SOFTWARE
+identification,CORE
+dispute case,CORE
+cardmember,USER
+merchant,USER
+training,SOFTWARE
+course,SOFTWARE
+cardmember services representatives,USER
+training course,SOFTWARE
+merchant services representatives,USER
+maintenance,SOFTWARE
+Statement,SOFTWARE
+Database,SOFTWARE
+Statement Database,SOFTWARE
+Disputes System,SOFTWARE
+Merchant Information Database,SOFTWARE
+Letters,SOFTWARE
+Print Letter Utility,SOFTWARE
+Posting,SOFTWARE
+Billing,SOFTWARE
+accounts,USER
+Cardmember Posting and Billing System,SOFTWARE
+access,CORE
+initiate,VERB
+requests,CORE
+Update,VERB
+System Administrator,USER
+account,SOFTWARE
+Administrator,USER
+business,CORE
+Operating,SOFTWARE
+Regulations,CORE
+Merchant Operating Regulations,USER
+Regulation E,CORE
+Regulation Z,CORE
+credit card,HARDWARE
+action,VERB
+dispute,CORE
+case,CORE
+actions,VERB
+case history,CORE
+internal,USER
+external,USER
+cardholder,USER
+authorized users,USER
+transactions,SOFTWARE
+transaction,SOFTWARE
+user interface,SOFTWARE
+ticket retrieval request,SOFTWARE
+chargeback notification,SOFTWARE
+ticket,SOFTWARE
+request,SOFTWARE
+car rental agency,HARDWARE
+external users,USER
+dispute case number,CORE
+type of retrieval,CORE
+copy,SOFTWARE
+original,SOFTWARE
+portfolio,SOFTWARE
+date,CORE
+merchant response,USER
+chargeback,CORE
+notification,SOFTWARE
+chargeback request,CORE
+type of chargeback,CORE
+industry,USER
+view,VERB
+merchant account number,USER
+cardmember account number,USER
+issuer number,CORE
+list,SOFTWARE
+line,SOFTWARE
+item,SOFTWARE
+cases,CORE
+history,CORE
+Dispute System,CORE
+follow-up actions,SOFTWARE
+access level,CORE
+creates,VERB
+modifies,VERB
+disputes case,CORE
+Internet Explorer,SOFTWARE
+Mozilla Firefox,SOFTWARE
+Choice Parts System,HARDWARE
+feed,SOFTWARE
+Adjusters,USER
+Collision Estimators,USER
+repair facility,HARDWARE
+save,VERB
+online,SOFTWARE
+estimators,SOFTWARE
+ChoiceParts,CORE
+support,VERB
+center,HARDWARE
+installations,SOFTWARE
+upgrades,SOFTWARE
+middleware,SOFTWARE
+technology,SOFTWARE
+team,USER
+launch,VERB
+frames,HARDWARE
+supervisor,USER
+role,USER
+repair,VERB
+facility,CORE
+ratings,CORE
+collision,SOFTWARE
+parts,HARDWARE
+insurance company,USER
+claim data,CORE
+computer,HARDWARE
+denial of service,SOFTWARE
+Sarbanes-Oxley,SOFTWARE
+insurance,SOFTWARE
+VEHICLE,HARDWARE
+RADIUS,HARDWARE
+make,VERB
+model,CORE
+miles,HARDWARE
+criteria,SOFTWARE
+adjuster,USER
+facitlity,CORE
+suppliers,USER
+estimator,SOFTWARE
+zipcode,CORE
+audit report,CORE
+audit,VERB
+DBMS,SOFTWARE
+machine,HARDWARE
+network,HARDWARE
+server,SOFTWARE
+operating system,SOFTWARE
+Java,SOFTWARE
+runtime,SOFTWARE
+web,SOFTWARE
+Apache,SOFTWARE
+Tomcat,SOFTWARE
+JBoss,SOFTWARE
+Oracle,SOFTWARE
+DB2,SOFTWARE
+MySql,SOFTWARE
+HSQL,SOFTWARE
+logo,HARDWARE
+branding,SOFTWARE
+identity,SOFTWARE
+LANGUAGE,SOFTWARE
+MARKET,CORE
+start page,SOFTWARE
+views,VERB
+preferences,CORE
+employee,USER
+meetings,CORE
+conference rooms,CORE
+web users,USER
+Americans with Disabilities Act,USER
+company,USER
+Release 2,CORE
+concurrency,CORE
+customer,USER
+HTML,SOFTWARE
+browsers,SOFTWARE
+database management systems,SOFTWARE
+database management system,SOFTWARE
+email servers,SOFTWARE
+Internet,HARDWARE
+binary,SOFTWARE
+ZIP,SOFTWARE
+CD,HARDWARE
+license,SOFTWARE
+Design Patterns,SOFTWARE
+developers,USER
+end users,USER
+product’s,SOFTWARE
+customers,USER
+languages,SOFTWARE
+countries,HARDWARE
+releases,SOFTWARE
+SQL Server,SOFTWARE
+MS Access,SOFTWARE
+operating environment,SOFTWARE
+managers,USER
+reservations,CORE
+conference room,CORE
+systems,CORE
+databases,SOFTWARE
+filesystems,SOFTWARE
+survey respondents,USER
+target market country,USER
+formatting,CORE
+J2SE,SOFTWARE
+J2EE,SOFTWARE
+employees,USER
+organizers,USER
+meeting,CORE
+equipment,HARDWARE
+store,VERB
+organizer,USER
+reservation,CORE
+locations,CORE
+search parameters,CORE
+transport,CORE
+end-user,USER
+Look,SOFTWARE
+Feel,SOFTWARE
+Inventory,CORE
+backup,VERB
+restore,VERB
+subsystems,CORE
+auditor,USER
+Quantity,SOFTWARE
+Adjustment,SOFTWARE
+documents,SOFTWARE
+IQA,CORE
+ingredients,CORE
+PFE,SOFTWARE
+Formula,CORE
+POS,HARDWARE
+terminals,HARDWARE
+PME,SOFTWARE
+Subsystem,SOFTWARE
+products,SOFTWARE
+accounting,SOFTWARE
+submenus,SOFTWARE
+order,CORE
+submenu,SOFTWARE
+RMS System,CORE
+Windows XP,SOFTWARE
+GUI,SOFTWARE
+Sales,SOFTWARE
+Formulas,SOFTWARE
+Administration,USER
+card,HARDWARE
+website,SOFTWARE
+unlimited movie subscriber,USER
+email address,SOFTWARE
+password,SOFTWARE
+process,CORE
+Izogn,USER
+usage,SOFTWARE
+statistics,SOFTWARE
+pins,SOFTWARE
+Excel,SOFTWARE
+pages,SOFTWARE
+animation,SOFTWARE
+movies,SOFTWARE
+movie,SOFTWARE
+buffering,SOFTWARE
+latency,SOFTWARE
+connection,HARDWARE
+streaming server,HARDWARE
+payment gateway,SOFTWARE
+servers,HARDWARE
+web browser,SOFTWARE
+IE 5x,SOFTWARE
+IE 6x,SOFTWARE
+Netscape 6,SOFTWARE
+Netscape 7,SOFTWARE
+Netscape 8,SOFTWARE
+Firefox 1,SOFTWARE
+MSN,SOFTWARE
+TV2,SOFTWARE
+Windows Media Player 9.0,SOFTWARE
+category,CORE
+listings,CORE
+Velkat,USER
+environment,HARDWARE
+Admin,USER
+pre-paid card,SOFTWARE
+Privacy Policy,SOFTWARE
+personnel,USER
+Nigerians,USER
+Flash,SOFTWARE
+home page,SOFTWARE
+IzognMovies,USER
+PHP,SOFTWARE
+title,CORE
+actor,USER
+director,USER
+viewing,VERB
+Windows Media Player,SOFTWARE
+categories,SOFTWARE
+reviews,CORE
+approve,VERB
+review,VERB
+streaming movie,SOFTWARE
+mail-in payment option,HARDWARE
+email,SOFTWARE
+printed paper card,HARDWARE
+Izogn Manager,USER
+owner,USER
+lead,VERB
+volume,CORE
+Auto Rep Assignment process,CORE
+web service,SOFTWARE
+xml,SOFTWARE
+Defect,CORE
+Washing parameters,CORE
+vendor,USER
+billing system,SOFTWARE
+enterprise system,SOFTWARE
+leads,USER
+ARA,SOFTWARE
+eleads system,SOFTWARE
+academic,USER
+scoring,CORE
+total,CORE
+score,CORE
+schools,USER
+washing,SOFTWARE
+parameters,SOFTWARE
+authentication,CORE
+rights,CORE
+parameter,CORE
+updates,CORE
+enterprise,SOFTWARE
+admissions,USER
+rep,USER
+reps,USER
+circle,HARDWARE
+ship,HARDWARE
+player,USER
+response,SOFTWARE
+players,USER
+game,SOFTWARE
+grid,SOFTWARE
+grids,SOFTWARE
+ships,HARDWARE
+turn,CORE
+defensive grid,HARDWARE
+defensive player,USER
+Callers,USER
+supervisors,USER
+browser,SOFTWARE
+Netscape Navigator,SOFTWARE
+advertise,SOFTWARE
+usability,SOFTWARE
+beta testers,USER
+Monitoring Services,SOFTWARE
+message,SOFTWARE
+exchanges,SOFTWARE
+problems,SOFTWARE
+City of Chicago,USER
+Application Development Guide Framework,SOFTWARE
+Development,CORE
+Framework,SOFTWARE
+Graphical User Interface,HARDWARE
+System Administrators,USER
+DBAs,USER
+Error Tracking Services,SOFTWARE
+Portals,SOFTWARE
+ad-hoc reporting,SOFTWARE
+KPIs,SOFTWARE
+Asynchronous Messaging,SOFTWARE
+parallel processing,CORE
+communications,SOFTWARE
+Multi-threading,SOFTWARE
+Load Balancing,SOFTWARE
+traffic,CORE
+Dynamic Change Support,CORE
+Transparent resource addition,CORE
+Transparent Resource,CORE
+Dynamic Change,CORE
+Service,SOFTWARE
+recovery technique,SOFTWARE
+compensatory transaction,SOFTWARE
+routing,SOFTWARE
+failures,HARDWARE
+platform,SOFTWARE
+CSR,SOFTWARE
+Datastream,SOFTWARE
+EAM,USER
+upgrade,VERB
+resource,CORE
+feature,CORE
+WS-Security,SOFTWARE
+messages,SOFTWARE
+IBM,SOFTWARE
+CCR,SOFTWARE
+resolution,HARDWARE
+WCS,SOFTWARE
+CCR management,USER
+results,SOFTWARE
+dashboard,SOFTWARE
+mouse,HARDWARE
+keyboard,HARDWARE
+Rreports,CORE
+button,HARDWARE
+deployment,CORE
+Corporate Community Grants,USER
+interfaces,SOFTWARE
+reports,SOFTWARE
+W3,HARDWARE
+Windows,SOFTWARE
+Windows 2000,SOFTWARE
+Brio,SOFTWARE
+Microsoft Excel,SOFTWARE
+Lotus 1-2-3,SOFTWARE
+xls,SOFTWARE
+Queries,SOFTWARE
+WCS system,SOFTWARE
+WCS Developer,USER
+WCS User,USER
+logins,CORE
+team owner,USER
+Commissioner,USER
+league,CORE
+settings,CORE
+page,SOFTWARE
+menu,SOFTWARE
+index,SOFTWARE
+message board,SOFTWARE
+league page,SOFTWARE
+add,CORE
+drop,CORE
+trade player,CORE
+NFL,CORE
+points,CORE
+RFS,CORE
+BDW,CORE
+RFS system,SOFTWARE
+Revenue,SOFTWARE
+expense,SOFTWARE
+formulae,SOFTWARE
+testing,SOFTWARE
+budget,SOFTWARE
+calculations,SOFTWARE
+project,SOFTWARE
+PCG,USER
+Finance,USER
+UAS,CORE
+ENET Securities,USER
+Architecture group,USER
+intranet,SOFTWARE
+resolutions,HARDWARE
+Login Page,SOFTWARE
+address bar,HARDWARE
+OpenEMR,SOFTWARE
+MyServerName,SOFTWARE
+login screen,SOFTWARE
+Logging,VERB
+Username,USER
+Login,CORE
+Password Change,CORE
+input,VERB
+Save Changes,SOFTWARE
+Main Screen,SOFTWARE
+Sliding Menu,SOFTWARE
+Tree View,SOFTWARE
+Radio Buttons,SOFTWARE
+Sliding,SOFTWARE
+screen,HARDWARE
+patient,USER
+link,SOFTWARE
+Sourceforge.net,SOFTWARE
+Tree,SOFTWARE
+Radio Button,HARDWARE
+window,HARDWARE
+navigation menu,SOFTWARE
+appointment calendar,CORE
+Facilities,CORE
+Forms,SOFTWARE
+Calendar,SOFTWARE
+Lists,SOFTWARE
+Clinic Name Here,USER
+lightbox,SOFTWARE
+NPI,CORE
+CLIA,CORE
+hospital,HARDWARE
+Groups,USER
+Control,CORE
+authorization,CORE
+Provider,USER
+clinics,HARDWARE
+pharmacies,HARDWARE
+drop down menu,SOFTWARE
+X12 Partner,SOFTWARE
+Payer,USER
+X12 Partners,USER
+Version,SOFTWARE
+Insurance Companies,USER
+insurance plans,SOFTWARE
+billing address,SOFTWARE
+Add New,VERB
+Edit,VERB
+parent folder,CORE
+document type,CORE
+Add Category,VERB
+address book,SOFTWARE
+doctors,USER
+Addr Book,SOFTWARE
+Person,USER
+dialog,SOFTWARE
+type,CORE
+UPIN,USER
+Specialty,CORE
+birth,CORE
+chart,SOFTWARE
+External ID,CORE
+Create,VERB
+calendar button,HARDWARE
+DOB,CORE
+Summary,CORE
+employment,CORE
+issues,CORE
+righthand,HARDWARE
+tab,HARDWARE
+Demographics,CORE
+drop-down list,SOFTWARE
+Subscriber,USER
+Uploading,VERB
+Document,CORE
+file,SOFTWARE
+issue,CORE
+practitioners,USER
+Providers,USER
+Repeats,VERB
+Calendar page,SOFTWARE
+patients,USER
+Add New Event,CORE
+Find,VERB
+Add Event,VERB
+Appointment,CORE
+indicator,SOFTWARE
+encounters,SOFTWARE
+Edit Event,SOFTWARE
+Choose,VERB
+Comments,SOFTWARE
+symbol,HARDWARE
+patient's,USER
+Encounter,CORE
+files,HARDWARE
+Arrived,VERB
+Create Visit,VERB
+navigation list,HARDWARE
+New Encounter Form,CORE
+Diagnoses,SOFTWARE
+Encounter Forms,CORE
+Displayed,VERB
+SOAP,SOFTWARE
+Save Form,VERB
+Fee Sheet,SOFTWARE
+Administrative,CORE
+Established Patient,CORE
+code,SOFTWARE
+billing codes,SOFTWARE
+ICD9,CORE
+CPT code,CORE
+Visit History,SOFTWARE
+CPT,SOFTWARE
+Prescriptions,CORE
+Medication,SOFTWARE
+PDF,SOFTWARE
+fax,HARDWARE
+pharmacy,SOFTWARE
+Auto Send,SOFTWARE
+Print,VERB
+template,SOFTWARE
+allergy,CORE
+surgery,CORE
+dental,CORE
+Add New Issue,VERB
+Occurrence,CORE
+Diagnosis,CORE
+text field,SOFTWARE
+Immunization,CORE
+CVX,CORE
+Patient Summary,CORE
+notes,SOFTWARE
+condition,CORE
+doctor,USER
+note,SOFTWARE
+drop-down lists,HARDWARE
+text box,SOFTWARE
+Patient Notes,CORE
+checkbox,HARDWARE
+Sent Items,SOFTWARE
+Summary page,SOFTWARE
+Patient Transactions,CORE
+Click,VERB
+Referral,CORE
+referring physician,USER
+risk level,CORE
+physicians,USER
+Access Control,SOFTWARE
+claims,VERB
+Billing Report,SOFTWARE
+tool,SOFTWARE
+Date of Service,CORE
+Choose Criteria,CORE
+Update List,CORE
+clearinghouses,USER
+sending,VERB
+OK,USER
+Save File,VERB
+claim file,VERB
+Billing Status,CORE
+Current Criteria,CORE
+HCFA,SOFTWARE
+Marked,VERB
+CMS 1500,SOFTWARE
+PDF viewer,SOFTWARE
+HCFA 1500,SOFTWARE
+billable encounter,CORE
+Explanation,CORE
+EOBs,SOFTWARE
+ERA file,SOFTWARE
+check number,SOFTWARE
+pay date,SOFTWARE
+check amount,SOFTWARE
+invoices,SOFTWARE
+invoice,SOFTWARE
+Prv,SOFTWARE
+Payments,SOFTWARE
+Invoice number,CORE
+EOB Invoice,SOFTWARE
+pay,VERB
+check,VERB
+pays,VERB
+payment,SOFTWARE
+balance,SOFTWARE
+Needs,SOFTWARE
+EOB,SOFTWARE
+search function,SOFTWARE
+Ins2,SOFTWARE
+drop-down,HARDWARE
+Due Pt',USER
+printing,VERB
+Superbill,SOFTWARE
+Visits,VERB
+Submit,VERB
+authorizations,CORE
+justifications,CORE
+Financial,SOFTWARE
+Cash Rec,SOFTWARE
+Cash Receipts,SOFTWARE
+PROCEDURE,CORE
+CHARGE,VERB
+Linux,HARDWARE
+PHP5,SOFTWARE
+OS,SOFTWARE
+Debian,SOFTWARE
+Centos,SOFTWARE
+RedHat,SOFTWARE
+STRICT_MODE,CORE
+SQL_MODE,SOFTWARE
+SHOW VARIABLES,VERB
+MySQL Command Line Client,SOFTWARE
+Tarball,SOFTWARE
+http,SOFTWARE
+sourceforge,SOFTWARE
+tar,SOFTWARE
+gz,SOFTWARE
+MD5,SOFTWARE
+sum,SOFTWARE
+archive,SOFTWARE
+webserver,SOFTWARE
+Ubuntu,SOFTWARE
+root,SOFTWARE
+directory,CORE
+var,SOFTWARE
+www,SOFTWARE
+Mandriva,USER
+FHS,CORE
+WEB GUI,SOFTWARE
+web-browser,SOFTWARE
+installation script,SOFTWARE
+localhost,HARDWARE
+permissions,SOFTWARE
+file system,SOFTWARE
+Continue,VERB
+Windows 10,SOFTWARE
+spesific feature of application,CORE
+Restructure,VERB
+OpenEMR Setup,SOFTWARE
+Have,VERB
+php-GACL,SOFTWARE
+phpDOTini,SOFTWARE
+directories,HARDWARE
+Protected Health Information,CORE
+installation,SOFTWARE
+gives,VERB
+FileSystem,SOFTWARE
+root user,USER
+library,SOFTWARE
+sqlconfDOTphp,SOFTWARE
+acl_setupDOTphp,SOFTWARE
+sl_convertDOTphp,SOFTWARE
+setupDOTphp,SOFTWARE
+sql_upgradeDOTphp,SOFTWARE
+gacl,SOFTWARE
+ippf_upgradeDOTphp,SOFTWARE
+Download,VERB
+install,VERB
+patch,SOFTWARE
+Patient Portals,SOFTWARE
+firewall,HARDWARE
+router,HARDWARE
+https,SOFTWARE
+certficates,SOFTWARE
+EMRs,SOFTWARE
+OEMR,SOFTWARE
+HIPAA,CORE
+scripts,SOFTWARE
+acl_setup,SOFTWARE
+acl,SOFTWARE
+ippf,SOFTWARE
+contrib,SOFTWARE
+Globals,CORE
+Security,CORE
+port,HARDWARE
+sites,SOFTWARE
+portal,SOFTWARE
+client-sided certificates,SOFTWARE
+patient portal,SOFTWARE
+ssh,SOFTWARE
+IP,HARDWARE
+XAMPP,SOFTWARE
+Codebase,SOFTWARE
+onsite portal,SOFTWARE
+standard,CORE
+procedures,SOFTWARE
+Health information,CORE
+information assets,CORE
+threats,CORE
+vulnerabilities,CORE
+controls,CORE
+Meaningful Use,CORE
+NIST,USER
+HIMSS,USER
+Risk Assessment Toolkit,SOFTWARE
+security plan,SOFTWARE
+Risk,CORE
+Assessment,CORE
+Guide,SOFTWARE
+Collection,CORE
+Matrix,SOFTWARE
+Toolkit,SOFTWARE
+individual,USER
+assets,CORE
+health,CORE
+locks,HARDWARE
+points of entry,HARDWARE
+lighting,HARDWARE
+cameras,HARDWARE
+fire precautions,SOFTWARE
+power outage procedures,SOFTWARE
+water protection,SOFTWARE
+disaster recovery,SOFTWARE
+IT,USER
+UPS,HARDWARE
+power outage,CORE
+spike,VERB
+sag,CORE
+backups,SOFTWARE
+antistatic surfaces,HARDWARE
+sprays,HARDWARE
+Laptops,HARDWARE
+tablets,HARDWARE
+smart phones,HARDWARE
+PHI,CORE
+parties,USER
+Storage,SOFTWARE
+HIPAA Security Rule,CORE
+financial data,CORE
+credit cards,CORE
+Two-factor,SOFTWARE
+EHR,SOFTWARE
+CCHIT,SOFTWARE
+Human,USER
+Passwords,SOFTWARE
+workflow,CORE
+names,HARDWARE
+addresses,HARDWARE
+problem,CORE
+medications,SOFTWARE
+orders,SOFTWARE
+dates,SOFTWARE
+start,SOFTWARE
+renewal,SOFTWARE
+end,SOFTWARE
+reaction,CORE
+items,CORE
+allergy list,SOFTWARE
+manage,VERB
+behavior,CORE
+allergies,CORE
+reactions,CORE
+documentation,CORE
+signature,SOFTWARE
+blood pressure,HARDWARE
+heart rate,HARDWARE
+respiratory rate,HARDWARE
+height,HARDWARE
+weight,HARDWARE
+content,SOFTWARE
+record,CORE
+text,SOFTWARE
+sources,SOFTWARE
+physician,USER
+health organization,USER
+prescription,SOFTWARE
+clinician,USER
+imaging studies,HARDWARE
+ordering provider,USER
+tests,SOFTWARE
+diagnostic test,SOFTWARE
+radiology,CORE
+services,SOFTWARE
+laboratory tests,SOFTWARE
+referrals,SOFTWARE
+test results,SOFTWARE
+test,CORE
+result,CORE
+paper,HARDWARE
+consent,SOFTWARE
+advance directives,SOFTWARE
+living will,SOFTWARE
+durable power of attorney,SOFTWARE
+Do Not Resuscitate order,SOFTWARE
+care plan,CORE
+protocol,CORE
+guideline,CORE
+disease,CORE
+wellness,CORE
+preventive,CORE
+preventive services,SOFTWARE
+wellness guidelines,SOFTWARE
+reference material,SOFTWARE
+rules,SOFTWARE
+alerts,SOFTWARE
+vitals,HARDWARE
+reminders,CORE
+disease management,CORE
+task,CORE
+prescribers,USER
+identifiers,SOFTWARE
+clinicians,USER
+medicine,SOFTWARE
+DEA,SOFTWARE
+organization,SOFTWARE
+communication,SOFTWARE
+entry,SOFTWARE
+reporting,SOFTWARE
+tools,SOFTWARE
+HbA1c,SOFTWARE
+specification,SOFTWARE
+hardcopy,HARDWARE
+electronic,HARDWARE
+date range,CORE
+vital signs,SOFTWARE
+templates,SOFTWARE
+pick lists,SOFTWARE
+macro,SOFTWARE
+dictation,SOFTWARE
+voice,HARDWARE
+recognition,SOFTWARE
+insurance carrier,SOFTWARE
+data entry,SOFTWARE
+rule-based,SOFTWARE
+deleted,VERB
+archived,VERB
+removed,VERB
+clinical documentation,SOFTWARE
+clinical data,SOFTWARE
+HL7,SOFTWARE
+ORU,SOFTWARE
+drug,SOFTWARE
+eligibility,SOFTWARE
+formulary,SOFTWARE
+benefit,SOFTWARE
+coverage,SOFTWARE
+PBM,HARDWARE
+HITSP,SOFTWARE
+Generated,SOFTWARE
+vocabularies,SOFTWARE
+terminologies,SOFTWARE
+medication allergy,SOFTWARE
+changes,SOFTWARE
+corrections,SOFTWARE
+clarifications,SOFTWARE
+addenda,SOFTWARE
+processes,USER
+tasks,CORE
+group,USER
+context,CORE
+time-of-day,CORE
+workstation-location,CORE
+emergency-mode,CORE
+SC 02.03,SOFTWARE
+audit engine,HARDWARE
+schema,SOFTWARE
+transports,SOFTWARE
+Audit Log specification,SOFTWARE
+IHE Audit Trails,SOFTWARE
+Node Authentication,SOFTWARE
+ATNA Profile,SOFTWARE
+Appendix,CORE
+software component,SOFTWARE
+hardware component,HARDWARE
+user identity,USER
+logs,SOFTWARE
+NTP,SOFTWARE
+SNTP,SOFTWARE
+ISO 8601,SOFTWARE
+audit records,SOFTWARE
+mobile,HARDWARE
+session,CORE
+inactivity timeout,CORE
+function,CORE
+processors,HARDWARE
+workstation,HARDWARE
+start-up,SOFTWARE
+serviceability,SOFTWARE
+antivirus,SOFTWARE
+intrusion detection,SOFTWARE
+malware eradication,SOFTWARE
+host-based firewall,SOFTWARE
+electrical,HARDWARE
+HVAC,HARDWARE
+sterilization,HARDWARE
+work area,HARDWARE
+HL-7,SOFTWARE
+FTP,SOFTWARE
+protocols,SOFTWARE
+ports,HARDWARE
+firewalls,HARDWARE
+routers,HARDWARE
+Protected Health Information (PHI),CORE
+SHA1,SOFTWARE
+TLS,SOFTWARE
+SSL,SOFTWARE
+IPSec,SOFTWARE
+S,SOFTWARE
+MIME,SOFTWARE
+thumb-drives,HARDWARE
+CD-ROM,HARDWARE
+PDA,HARDWARE
+Notebook,HARDWARE
+triple-DES (3DES),SOFTWARE
+Advanced Encryption Standard (AES),SOFTWARE
+credentials,CORE
+abnormal findings,CORE
+accessor,USER
+Activity Feed,CORE
+addPatient,CORE
+Administer,USER
+adverse event report,SOFTWARE
+adverse event reporter,USER
+Adverse Event Reporting,CORE
+adverse events,SOFTWARE
+ailment,CORE
+allowable drugs,CORE
+allowable physical services,CORE
+American,USER
+answer,VERB
+answers,CORE
+any patient,USER
+appointment comments,CORE
+appointment date,CORE
+appointment type,CORE
+AppointmentType,CORE
+auth,CORE
+Authenticate,VERB
+Body Mass Index (BMI),SOFTWARE
+calendar control,CORE
+cancel,VERB
+cancer,CORE
+Care,CORE
+case manager,USER
+cholesterol,HARDWARE
+chronic disease,CORE
+chronic patients,USER
+comment,CORE
+complaints,CORE
+comprehensive report,CORE
+conditions,CORE
+confidence interval,CORE
+Consumer,USER
+CPT Codes,SOFTWARE
+current lab procedure status,CORE
+data format,CORE
+Data Format 6.11,SOFTWARE
+Data Format 6.13,CORE
+Data Format 6.4.1,SOFTWARE
+date of office visit,CORE
+delete,VERB
+deletes,VERB
+deletion events,CORE
+Department of Health and Human Services USA,USER
+Designate,VERB
+Detailed Use Case,CORE
+diabetes,CORE
+diabetes mellitus,SOFTWARE
+diagnose,VERB
+diagnosis code,SOFTWARE
+diagnosis codes,SOFTWARE
+diastolic,SOFTWARE
+Diphtheria,USER
+Disability,SOFTWARE
+Disable,VERB
+diseases,CORE
+DLHCP,USER
+dose,CORE
+drop-down box,HARDWARE
+dropdown,CORE
+drug allergies,SOFTWARE
+duration,CORE
+Eclipse,SOFTWARE
+edited,VERB
+editing event,CORE
+editor,USER
+edits,SOFTWARE
+Electronic Health Record,SOFTWARE
+emergency report,CORE
+Emergency Responder,USER
+Enter,VERB
+enterer,USER
+entities,classification
+ER,SOFTWARE
+error,CORE
+errors,SOFTWARE
+EXAMINATION ROOM,HARDWARE
+external causes of injury or disease,CORE
+fake,SOFTWARE
+fake email,SOFTWARE
+family history,CORE
+fields,CORE
+filter,SOFTWARE
+firstName,USER
+Flow of Events,CORE
+flu shot,SOFTWARE
+Form Validation,SOFTWARE
+Format,SOFTWARE
+Functioning,SOFTWARE
+Gaps,CORE
+gender,CORE
+general,CORE
+general physician,CORE
+glucose,CORE
+glucose levels,SOFTWARE
+grandparents,USER
+Haemophilus influenzae,USER
+HCP,USER
+HCP name,CORE
+HCPs,USER
+HDL,HARDWARE
+he,USER
+HEADER,CORE
+health care personnel,USER
+health care professional,USER
+heart disease,CORE
+heart surgeon,CORE
+Hepatitis A,USER
+Hepatitis B,SOFTWARE
+historical values,SOFTWARE
+homepage,CORE
+hospitals,SOFTWARE
+ICD,SOFTWARE
+ICD-9CM,SOFTWARE
+ICD-9CM code,SOFTWARE
+inbox,SOFTWARE
+inches,HARDWARE
+input data,CORE
+instruction,SOFTWARE
+iTrust,SOFTWARE
+iTrust Medical Records system,CORE
+iTrust user,USER
+Javadoc,SOFTWARE
+jsp,SOFTWARE
+JUnit,SOFTWARE
+King Jason,USER
+lab procedure,SOFTWARE
+lab procedure code,CORE
+lab procedure ID,CORE
+lab procedures,CORE
+Lab Technician,USER
+Lab Technician name,USER
+label,CORE
+laboratory,HARDWARE
+laboratory procedure,CORE
+laboratory procedures,SOFTWARE
+Laboratory Technician (LT),USER
+last name,USER
+later date,CORE
+LCHP,CORE
+LHCP,SOFTWARE
+LHCPs,USER
+logged,VERB
+LOINC,SOFTWARE
+LT,CORE
+Main,CORE
+Main Flow,CORE
+malaria,USER
+March,CORE
+measurements,CORE
+Medical Care Personnel Affiliation,SOFTWARE
+medical records,SOFTWARE
+message inbox,SOFTWARE
+MID,HARDWARE
+MIDs,SOFTWARE
+Monitoring,SOFTWARE
+name of attending physician,SOFTWARE
+name of the patient,USER
+NDC,HARDWARE
+new referrals,CORE
+NHCS,SOFTWARE
+notification center,SOFTWARE
+Notifications,CORE
+numerical result,CORE
+OB-GYN,CORE
+office visit,CORE
+office visit information,SOFTWARE
+office visit page,SOFTWARE
+Office Visit Reminders,SOFTWARE
+office visits,CORE
+Older Activities,SOFTWARE
+older patients,USER
+ONC,USER
+outbox,SOFTWARE
+parents,USER
+patient name,USER
+patient personal health information,SOFTWARE
+patient phone number,USER
+patient referral,USER
+patient representative,USER
+patient representee,USER
+patient's father,USER
+patient's mother,USER
+Peddycord Barry,USER
+pediatrician,CORE
+pedometer,HARDWARE
+pedometer readings,SOFTWARE
+pending appointment requests,CORE
+pending lab procedures,CORE
+people,USER
+personal health information,SOFTWARE
+Personal health records,SOFTWARE
+personal health representative,USER
+Personal Representative,USER
+personal representative name,USER
+Pertussis,USER
+PHA,USER
+photograph,HARDWARE
+PHR,SOFTWARE
+physiologic,CORE
+physiologic data,CORE
+physiologic data monitoring reports,SOFTWARE
+pixels,HARDWARE
+Poliovirus,USER
+Potential Prescription-Renewals,SOFTWARE
+pounds,HARDWARE
+prescribed,CORE
+prescription drug,SOFTWARE
+Prescription-Renewal,CORE
+printer,HARDWARE
+priority,CORE
+priority queue,CORE
+procedure code,SOFTWARE
+Professional,CORE
+public health agent,USER
+public health agent (PHA),USER
+pull down list,SOFTWARE
+range,CORE
+Read,VERB
+Read Comment,SOFTWARE
+readings,VERB
+receiving,USER
+recipient,USER
+remote monitoring information,SOFTWARE
+remove,VERB
+reporter,USER
+representative,USER
+representatives,USER
+Response Management,CORE
+row,CORE
+S3,USER
+sample,CORE
+Satisfaction,CORE
+Schedule Appointments,CORE
+security question,CORE
+send,VERB
+sender,USER
+sessions,SOFTWARE
+she,USER
+siblings,USER
+signs,CORE
+Singleton,CORE
+smoking,CORE
+social circumstances,CORE
+Sort,VERB
+special-diagnosis-history,SOFTWARE
+stored,VERB
+Street,HARDWARE
+subject,USER
+submitted,VERB
+surgeon,CORE
+survey,CORE
+symptoms,CORE
+systolic,SOFTWARE
+Telemedicine,SOFTWARE
+Tetanus,USER
+The International Statistical Classification of Diseases and Related Health Problems,SOFTWARE
+their own records,SOFTWARE
+tissue,CORE
+transit,VERB
+triglyceride,HARDWARE
+try,VERB
+UAP,SOFTWARE
+UAP name,USER
+Undesignate,VERB
+unread messages,SOFTWARE
+unviewed completed lab procedures,SOFTWARE
+upload,VERB
+URL,SOFTWARE
+URLs,SOFTWARE
+US,USER
+US Department of Health and Human Services,USER
+Use,VERB
+Use Case,CORE
+utility,SOFTWARE
+Varicella,CORE
+View Appointment Calendar,SOFTWARE
+viewMyRecords,SOFTWARE
+ViewMyRecordsAction,SOFTWARE
+visit,VERB
+weight or pedometer data monitoring reports,SOFTWARE
+zip code,SOFTWARE
+EHR System,SOFTWARE
+Registration,CORE
+Order Entry,CORE
+Results Viewing,CORE
+Computerized Physician Order Entry (CPOE),CORE
+OR,CORE
+ICU,CORE
+HIM Utilization review,CORE
+utilization management,CORE
+workflows,CORE
+document types,CORE
+result displays,CORE
+Outpatient,SOFTWARE
+Inpatient,SOFTWARE
+Ambulatory,USER
+requirement,CORE
+resident,USER
+e-signatures,SOFTWARE
+Co-signature,SOFTWARE
+Attending,USER
+Reliability,SOFTWARE
+education,SOFTWARE
+LA,USER
+County,USER
+population,USER
+HIPAA Standards,SOFTWARE
+Practice Management System,SOFTWARE
+Patient Registration System,SOFTWARE
+import,VERB
+nurse station,HARDWARE
+metric,SOFTWARE
+kilograms,HARDWARE
+witness,USER
+mobile device,HARDWARE
+pager,HARDWARE
+electronic storage devices,HARDWARE
+flash drive,HARDWARE
+CDs,HARDWARE
+A1c,SOFTWARE
+Lipid,SOFTWARE
+graphic,HARDWARE
+Growth Chart,SOFTWARE
+track,VERB
+transferring,VERB
+analysis,CORE
+Infection Control,SOFTWARE
+MRSA,SOFTWARE
+admitting,VERB
+transfers,CORE
+discharges,VERB
+physician offices,HARDWARE
+Ambulatory settings,HARDWARE
+home health agencies,HARDWARE
+MPI,SOFTWARE
+researcher,USER
+Newborn,USER
+Bed Swap,CORE
+Observation beds,CORE
+Change of service,CORE
+Cancel Encounter,CORE
+Cancel Encounter Discharge,CORE
+Cancel Encounter Transfer,CORE
+Cancel Leave of Absence,CORE
+Cancel Pending Encounter Discharge,CORE
+Cancel Pending Encounter Transfer,CORE
+Complete Encounter Discharge,CORE
+Complete Encounter Transfer,CORE
+Discharge Encounter,CORE
+Leave of Absence,CORE
+usre,USER
+differencing registration reports,CORE
+bar code labels,CORE
+laser printers,HARDWARE
+patient identification,USER
+Standard Documents,CORE
+Armband labels,CORE
+Sheet labels,CORE
+Admission label,CORE
+Face sheets,CORE
+Admit Notice,CORE
+Discharge Notice,CORE
+Transfer Notice,CORE
+Cancel Discharge Notice,CORE
+MSP Document,CORE
+Document Routing,CORE
+laser printer,HARDWARE
+work lists,CORE
+queues,CORE
+Medicare Secondary Payer,CORE
+Follow-up,VERB
+Pre-Registration,CORE
+Dirty Beds,CORE
+Discharge Follow-up,CORE
+ER Quick Registration Follow-up,CORE
+Insurance Verification,CORE
+Past Due Arrival,CORE
+Pending Arrival,CORE
+Leave of Absence View,CORE
+Unauthenticated Employer,CORE
+Miscellaneous Insurance,CORE
+Interpreter Required,CORE
+Privacy Practice,CORE
+Accommodation Mismatch,CORE
+Nurse Unit Inquiry,CORE
+Name Inquiry,CORE
+casualties,USER
+train accident,CORE
+earthquake,CORE
+QuickReg,CORE
+matching records,CORE
+patient locator,USER
+patient classes,USER
+locator,CORE
+patient directory,CORE
+historical patient lookup,CORE
+bed board,CORE
+beds,CORE
+occupancy information,CORE
+nurse unit,USER
+transfer,VERB
+discharge patients,CORE
+bed,CORE
+patient demographic information,CORE
+eligibility checking,CORE
+commercial health plans,CORE
+Medicaid,CORE
+medical summary,CORE
+insurance information,CORE
+administration codes,CORE
+vaccine,CORE
+shots,CORE
+Worklist,CORE
+scheduling requests,CORE
+urgency,CORE
+transportation requests,CORE
+physician names,CORE
+consulting,CORE
+primary care physician,CORE
+comment fields,CORE
+free form text,CORE
+pre-defined values,CORE
+IP Admissions,SOFTWARE
+persons,USER
+resources,CORE
+costs,CORE
+efficiency,CORE
+access services,CORE
+appointment books,CORE
+Physical Therapy,CORE
+Occupational Therapy,CORE
+Rehabilitation Therapy,CORE
+modalities,CORE
+appointment types,CORE
+slot types,CORE
+default schedules,CORE
+slot type,CORE
+scheduling templates,CORE
+future,CORE
+reason for exam,CORE
+ICD-9,CORE
+ICD-10,CORE
+Module,CORE
+formats,CORE
+Resource roles,CORE
+database maintenance,CORE
+LAC DHS,CORE
+Resource Lists,CORE
+historical schedules,CORE
+booked,VERB
+Preparations,CORE
+Post Appointment Instructions,CORE
+Action Comments,CORE
+Booking Notes,CORE
+Scheduling Comments,CORE
+Warning Overrides,CORE
+Resource Comments,CORE
+Encounter Comments,CORE
+Person Comments,CORE
+referral info,CORE
+procedure codes,CORE
+caregivers,CORE
+responsible physician,CORE
+disposition,CORE
+registration conversations,CORE
+conversation flexing logic,CORE
+Radiology Integration,CORE
+Radiology patient appointments,CORE
+Surgical Management Integration,CORE
+surgical case numbers,CORE
+procedure durations,CORE
+preference cards,CORE
+scheduling process,CORE
+dynamic,CORE
+block scheduling,CORE
+Enterprise Eligibility,CORE
+Enterprise Benefits Management Integration,CORE
+insurance eligibility information,CORE
+medical necessity,CORE
+diagnosis combinations,CORE
+Orders Integration,CORE
+orderable,CORE
+scheduling appointments,CORE
+future status,CORE
+appointment check-in,CORE
+scheduled,VERB
+scheduling request queues,CORE
+registration appointment,CORE
+outpatient appointment,CORE
+expiration,CORE
+appointment visit,VERB
+financial assessment appointment,CORE
+Patient Arrival,USER
+patient check-in,VERB
+View only access,CORE
+Full Access,CORE
+Schedule Multiple Appointments,CORE
+Schedule a Recurring Appointment,CORE
+appointment information,CORE
+Reschedule an Appointment,CORE
+Check In ,VERB
+Check Out,VERB
+Record a No Show,CORE
+referral patient,CORE
+non-registered,CORE
+associated documentation,CORE
+archiving,VERB
+purging,CORE
+Ancillary Departments,CORE
+Admission Process,CORE
+Ongoing Assessment Process,CORE
+Intake,CORE
+Output,CORE
+Routine Care,CORE
+Functional activities,CORE
+Non Scheduled Documentation,CORE
+Ad Hoc Charting,CORE
+Shift Change Report,CORE
+Patient Assignment,USER
+flow sheet calculations,CORE
+fluid balance,CORE
+graphic view,SOFTWARE
+custom views,SOFTWARE
+clinical modalities,CORE
+Shift Assignment,CORE
+Assignment,CORE
+care givers,USER
+care giver,USER
+key information,CORE
+notification source,CORE
+interval data,CORE
+launch pad,CORE
+vital,CORE
+related applications,CORE
+Task Lists,CORE
+Functionality,SOFTWARE
+Task list,SOFTWARE
+CHARTING,CORE
+Charge Services,SOFTWARE
+Documentation Management,SOFTWARE
+care plans,SOFTWARE
+schedules,VERB
+recommendations,SOFTWARE
+BSA,CORE
+visit template,CORE
+Psychiatry,USER
+Orthopedics,USER
+Oncology,USER
+Pre-Operative Assessment,CORE
+History and Physical,CORE
+Physical Exam,CORE
+Operative Note,CORE
+Labor and Delivery,CORE
+Cardiac Resuscitation,CORE
+Dental Note,CORE
+Ophthalmology Note,CORE
+Family Planning,CORE
+Urology Record,CORE
+Sickle Cell Record,CORE
+Neurology Note,CORE
+messaging system,SOFTWARE
+caregiver,USER
+cell phone,HARDWARE
+technologies,SOFTWARE
+Solution,SOFTWARE
+pain scores,SOFTWARE
+validation,CORE
+nurse,USER
+counseling,SOFTWARE
+parent,USER
+child,USER
+registry,SOFTWARE
+Integrated Decision Support,SOFTWARE
+progress note template,SOFTWARE
+spell checker,SOFTWARE
+progress notes,SOFTWARE
+progress note,SOFTWARE
+change,VERB
+hospitalizations,SOFTWARE
+diagnostic procedures,SOFTWARE
+therapies,USER
+outcomes,SOFTWARE
+sign off,SOFTWARE
+Residents,USER
+outcome,CORE
+analyze,VERB
+determine,VERB
+viewer,SOFTWARE
+growth,SOFTWARE
+sets,SOFTWARE
+venues,SOFTWARE
+plan,SOFTWARE
+charts,SOFTWARE
+flowsheets,SOFTWARE
+Therapy,SOFTWARE
+modules,SOFTWARE
+Rad,SOFTWARE
+Rx,SOFTWARE
+warnings,CORE
+override,VERB
+justification,SOFTWARE
+interventions,SOFTWARE
+medical orders,CORE
+Ordering Clinicians,USER
+alert,SOFTWARE
+STAT,SOFTWARE
+source system,CORE
+changing,VERB
+canceling,VERB
+departments,USER
+reactivation,CORE
+medical care provider,USER
+CT exam,SOFTWARE
+PT,SOFTWARE
+consult,VERB
+practices,CORE
+method,CORE
+LAC,USER
+DHS,USER
+Chart Lock,SOFTWARE
+IV,HARDWARE
+Admixture,SOFTWARE
+compatibility,SOFTWARE
+Scoping,SOFTWARE
+Frequencies,SOFTWARE
+Unit,SOFTWARE
+Contra-indication,SOFTWARE
+checking,SOFTWARE
+outs,SOFTWARE
+Leaflets,SOFTWARE
+Capability,SOFTWARE
+modified,VERB
+applied,VERB
+TPN,SOFTWARE
+Catalog,SOFTWARE
+eMAR,SOFTWARE
+Masks,SOFTWARE
+synonyms,SOFTWARE
+MAR,SOFTWARE
+Infuse,VERB
+Over,VERB
+Meds,SOFTWARE
+Profile,CORE
+Scale,SOFTWARE
+dosing,SOFTWARE
+Sentences,SOFTWARE
+co-sign,VERB
+handle,VERB
+Routes,CORE
+Standard IV Label,SOFTWARE
+Standard Medication Label,SOFTWARE
+Standard Self Med or Pass Med Label,SOFTWARE
+Standard Oral Syringe Label,SOFTWARE
+Standard Outpatient Label,SOFTWARE
+Doses,CORE
+PRN,CORE
+Intermittent,CORE
+Single,CORE
+Daily,CORE
+Length,CORE
+interaction,CORE
+technician,USER
+Pyxis,SOFTWARE
+cart,SOFTWARE
+fill,VERB
+picking,VERB
+pharmacist,USER
+antigens,SOFTWARE
+base,SOFTWARE
+Med List,SOFTWARE
+flow rates,HARDWARE
+compounding information,SOFTWARE
+3D,HARDWARE
+2D,HARDWARE
+bar-coding,SOFTWARE
+labels,SOFTWARE
+recodes,SOFTWARE
+MARs,SOFTWARE
+flow sheet,SOFTWARE
+medication reconciliation,SOFTWARE
+ADRs,SOFTWARE
+list-types,SOFTWARE
+Acknowledging,VERB
+filling,VERB
+admission,CORE
+IVR,SOFTWARE
+Retail Pharmacy,SOFTWARE
+reconciliation,SOFTWARE
+bar code,HARDWARE
+dispense,HARDWARE
+lab orders,SOFTWARE
+phlebotomy,SOFTWARE
+point of care testing,SOFTWARE
+QA,USER
+txt,SOFTWARE
+barcode scanner,HARDWARE
+cassette,HARDWARE
+slides,HARDWARE
+histological special stains,SOFTWARE
+immunohistochemical staining,SOFTWARE
+markers,SOFTWARE
+non-Pathologist,USER
+specimen,CORE
+prelim,CORE
+position,CORE
+Dept Head,USER
+Pathologist,USER
+Pathologists,USER
+QI,SOFTWARE
+Attending Resident,USER
+AP,SOFTWARE
+charge code,CORE
+Anatomical,SOFTWARE
+Cytotogy,SOFTWARE
+SNOMED,SOFTWARE
+verify,VERB
+panels,HARDWARE
+film,HARDWARE
+exam,SOFTWARE
+transcription,SOFTWARE
+CAT SCAN,HARDWARE
+Ultrasound,HARDWARE
+Nuclear Medicine,SOFTWARE
+General Radiology,SOFTWARE
+Mammography,HARDWARE
+Cardiology,SOFTWARE
+MRI,HARDWARE
+requisition,SOFTWARE
+technologist,USER
+contract,SOFTWARE
+Radiology Management,SOFTWARE
+Folder,SOFTWARE
+films,SOFTWARE
+digital image files,SOFTWARE
+outside facility,USER
+Radiologists,USER
+dication,SOFTWARE
+writing,SOFTWARE
+Screening,SOFTWARE
+Diagnostic,SOFTWARE
+ACR,SOFTWARE
+BI-RADS,SOFTWARE
+coding,SOFTWARE
+MWSA,SOFTWARE
+Quality,SOFTWARE
+Act,SOFTWARE
+Reminder,SOFTWARE
+PACS,SOFTWARE
+Radiologist,USER
+BIRADS,SOFTWARE
+RIS,SOFTWARE
+Radiology Technician,USER
+contrast media allergies,SOFTWARE
+queue,HARDWARE
+triage,SOFTWARE
+prioritization,SOFTWARE
+Attendees,SOFTWARE
+Surgical,SOFTWARE
+Delays,SOFTWARE
+Counts,SOFTWARE
+Prosthetic,SOFTWARE
+Devices,SOFTWARE
+defined,SOFTWARE
+Preference,SOFTWARE
+Cards,SOFTWARE
+Generic,SOFTWARE
+procedure-based,SOFTWARE
+Surgeon-specific,SOFTWARE
+Comprehensive,SOFTWARE
+Pick,SOFTWARE
+segments,SOFTWARE
+Search Preference Card,SOFTWARE
+Copy Wizard,SOFTWARE
+Preference Card,SOFTWARE
+batch,SOFTWARE
+operations,SOFTWARE
+saved views,SOFTWARE
+search criteria,SOFTWARE
+report format,SOFTWARE
+ad-hoc reports,SOFTWARE
+Stoplight rules,SOFTWARE
+utilization,CORE
+Block Utilization,SOFTWARE
+Surgeon Utilization,SOFTWARE
+Specialty Utilization,SOFTWARE
+Cases with no preference card report,SOFTWARE
+Cases with no surgeon-specific preference card report,SOFTWARE
+Critical item report,SOFTWARE
+Non-stock item report,SOFTWARE
+Cases with no charges report,SOFTWARE
+postoperative,SOFTWARE
+exception,SOFTWARE
+block,CORE
+logic,CORE
+shuffling,CORE
+conflict,VERB
+instrumentation,HARDWARE
+blocks,CORE
+Pre-Admission Testing,SOFTWARE
+Forms-based,SOFTWARE
+defaults,SOFTWARE
+allow,SOFTWARE
+Pre-defined,SOFTWARE
+bedside,HARDWARE
+Signing transcription,SOFTWARE
+Forwarding results,SOFTWARE
+Cosigning orders,SOFTWARE
+proxy,SOFTWARE
+Forwarded Items,SOFTWARE
+operative rooms,HARDWARE
+electronic patient chart,SOFTWARE
+Anesthesiology,SOFTWARE
+ASA,SOFTWARE
+Med Admin,USER
+E.H.R.,SOFTWARE
+monitors,HARDWARE
+Rehabilitative Medicine,SOFTWARE
+Rehab,SOFTWARE
+FIM,SOFTWARE
+routing process,CORE
+EMPI,SOFTWARE
+ADT,SOFTWARE
+Content Code Sets,SOFTWARE
+Admission Sources,SOFTWARE
+Admit Mode,SOFTWARE
+Admission Types,SOFTWARE
+Race Codes,SOFTWARE
+Accident Codes,SOFTWARE
+Discharge Dispositions,SOFTWARE
+Hospital Services,SOFTWARE
+Marital Status,SOFTWARE
+Religion,SOFTWARE
+Provider Specialty,SOFTWARE
+merging,VERB
+Combine,VERB
+Matches,VERB
+Medical Necessity Checking,SOFTWARE
+Advance Beneficiary Notification,SOFTWARE
+dependent,USER
+medical service,SOFTWARE
+CHP,HARDWARE
+HWLA,HARDWARE
+ED,SOFTWARE
+Patient Data Management,SOFTWARE
+Patient Care Chart Requests,SOFTWARE
+Deliver,VERB
+Documentation Completion,SOFTWARE
+Abstracting Management,SOFTWARE
+Release of Information Management,SOFTWARE
+Chart Location Tracking,SOFTWARE
+suspension,SOFTWARE
+release,SOFTWARE
+3M,SOFTWARE
+Quantim,SOFTWARE
+Medical transcription,SOFTWARE
+Remote transcription,SOFTWARE
+Multiple signature lines,SOFTWARE
+Medical dictionaries,SOFTWARE
+Document tracking,SOFTWARE
+Deficiency tracking,SOFTWARE
+audit trails,SOFTWARE
+query,SOFTWARE
+CLIP,SOFTWARE
+Assisted Software Program,SOFTWARE
+work queue,SOFTWARE
+folders,HARDWARE
+Annotations,SOFTWARE
+MD’s,USER
+Emergency Triage and Tracking,SOFTWARE
+emergency department,USER
+EMS List,SOFTWARE
+Nurse List,SOFTWARE
+Physician List,SOFTWARE
+Triage List,SOFTWARE
+Registration List,SOFTWARE
+Checkout List,SOFTWARE
+Provider List,SOFTWARE
+Bed Tracking List,SOFTWARE
+Tracking Events,SOFTWARE
+EKG,SOFTWARE
+reassignment,VERB
+ED Physician,USER
+ED Nurse,USER
+ED Nurse Management,USER
+Nurse Supervisor,USER
+ED Tech,USER
+ED Unit Secretary,USER
+ED Registration,USER
+ED Admin Secretary,USER
+Radiology Transport,USER
+DBA,USER
+LOS,CORE
+Shift Report,CORE
+Primary Care,CORE
+EMTALA,USER
+goals,CORE
+call,SOFTWARE
+documenting,SOFTWARE
+resuscitation,CORE
+Problem Lists,SOFTWARE
+Procedure Lists,SOFTWARE
+Cardiovascular PACS Integration,SOFTWARE
+cerebrovascular disease,CORE
+congenital heart disease,CORE
+heart failure,CORE
+hypertensive heart disease,CORE
+ischemic heart disease,CORE
+clinical trials,SOFTWARE
+patient alerts,SOFTWARE
+Membership,USER
+enrollment,CORE
+credentialing,CORE
+Contracting,CORE
+reimbursement,CORE
+adjudication,CORE
+Capitation,CORE
+Correspondence,CORE
+processing,CORE
+Premium,CORE
+ledger,CORE
+Coordination,CORE
+denials,CORE
+Case management,CORE
+induction,CORE
+post-operative,CORE
+delivery,CORE
+anesthesia,CORE
+post-anesthesia,CORE
+evaluation,SOFTWARE
+server-side,SOFTWARE
+programming platforms,SOFTWARE
+graphics,HARDWARE
+design,HARDWARE
+environments,SOFTWARE
+production,SOFTWARE
+functions,CORE
+field labels,SOFTWARE
+unused fields,SOFTWARE
+custom-defined fields,SOFTWARE
+business rules,SOFTWARE
+WAN,HARDWARE
+RDBMS,SOFTWARE
+SQL,SOFTWARE
+exchange,VERB
+ODBC,SOFTWARE
+test script,SOFTWARE
+script,SOFTWARE
+export,VERB
+recovery,SOFTWARE
+DRP,SOFTWARE
+Locking,CORE
+Optiomization,CORE
+Multiprocessor,HARDWARE
+execution,VERB
+data dictionary,SOFTWARE
+table,SOFTWARE
+data element,CORE
+data elements,CORE
+tables,CORE
+report names,SOFTWARE
+utilities,SOFTWARE
+tuning,SOFTWARE
+SAN,HARDWARE
+API,SOFTWARE
+Conversion,CORE
+proposer,USER
+standardize,VERB
+migrate,VERB
+load,VERB
+receiving system,CORE
+Attempts,VERB
+web server,SOFTWARE
+character set,SOFTWARE
+locale,SOFTWARE
+country code,SOFTWARE
+biometrics,SOFTWARE
+fingerprint scan,HARDWARE
+standalone,HARDWARE
+protected,SOFTWARE
+Secure Socket Layer,SOFTWARE
+IP Security,SOFTWARE
+roles,USER
+site content developer,USER
+VPN,SOFTWARE
+Configuration,SOFTWARE
+stores,SOFTWARE
+tampering,CORE
+tokens,SOFTWARE
+config,SOFTWARE
+Measures,CORE
+Secrets,CORE
+hash,SOFTWARE
+keys,CORE
+connections,CORE
+encryption,SOFTWARE
+patient records,SOFTWARE
+integrity,CORE
+memory,HARDWARE
+sub-module,CORE
+FIPS,SOFTWARE
+protection,CORE
+triple-DES,SOFTWARE
+Data Encryption Standard,SOFTWARE
+Advanced Encryption Standard,SOFTWARE
+AES,SOFTWARE
+Key,HARDWARE
+query strings,SOFTWARE
+cookies,SOFTWARE
+HTTP headers,SOFTWARE
+Exception Management,CORE
+Error Handling,CORE
+Auditing,SOFTWARE
+Object,CORE
+County departments,USER
+historic information,SOFTWARE
+regulation,SOFTWARE
+responsible,USER
+Data Warehouse,SOFTWARE
+graphs,SOFTWARE
+MS Office,SOFTWARE
+Hypertext Markup Language (HTML),SOFTWARE
+Open Doc,SOFTWARE
+Open XML,SOFTWARE
+MS-Excel,SOFTWARE
+Ad Hoc,SOFTWARE
+materials,SOFTWARE
+help,SOFTWARE
+maps,SOFTWARE
+corrective,SOFTWARE
+data-entry,SOFTWARE
+licensee,SOFTWARE
+scan,VERB
+imaged documents,SOFTWARE
+electronic files,SOFTWARE
+metadata,SOFTWARE
+converters,SOFTWARE
+e-mails,SOFTWARE
+distribution,SOFTWARE
+attributes,CORE
+box,CORE
+Redundancy,CORE
+recovery environment,SOFTWARE
+business continuity,CORE
+CPU,HARDWARE
+third-party software,SOFTWARE
+switches,HARDWARE
+load balancers,HARDWARE
+consoles,HARDWARE
+EMH,SOFTWARE
+LA DHS,USER
+hosting platform,SOFTWARE
+bugs,SOFTWARE
+attacks,VERB
+patches,SOFTWARE
+Personal Data,CORE
+Confidential Information,CORE
+third parties,SOFTWARE
+fixes,VERB
+incidents,CORE
+severity level,CORE
+credits,CORE
+hosting metrics,CORE
+Requirements,CORE
+Handling,VERB
+software solution,SOFTWARE
+storage devices,HARDWARE
+computing systems,HARDWARE
+communications circuits,HARDWARE
+abstract,VERB
+activate,VERB
+adjust,VERB
+aggregate,VERB
+align,VERB
+allocate,VERB
+annotate,VERB
+apply,VERB
+assign,VERB
+automate,VERB
+benchmark,VERB
+bind,VERB
+build,VERB
+cache,VERB
+calculate,VERB
+calibrate,VERB
+capture,VERB
+categorize,VERB
+classify,VERB
+clean,VERB
+clone,VERB
+collaborate,VERB
+collect,VERB
+commit,VERB
+compile,VERB
+compress,VERB
+compute,VERB
+configure,VERB
+connect,VERB
+construct,VERB
+convert,VERB
+coordinate,VERB
+debug,VERB
+decrypt,VERB
+define,VERB
+deploy,VERB
+detect,VERB
+develop,VERB
+diff,VERB
+differentiate,VERB
+direct,VERB
+discover,VERB
+dispatch,VERB
+distribute,VERB
+embed,VERB
+emulate,VERB
+encrypt,VERB
+engineer,VERB
+enhance,VERB
+enumerate,VERB
+evaluate,VERB
+execute,VERB
+expand,VERB
+extract,VERB
+fail,VERB
+fetch,VERB
+fix,VERB
+formulate,VERB
+identify,VERB
+implement,VERB
+improve,VERB
+inform,VERB
+initialize,VERB
+inject,VERB
+inspect,VERB
+integrate,VERB
+interact,VERB
+interpret,VERB
+intervene,VERB
+introduce,VERB
+invert,VERB
+invoke,VERB
+iterate,VERB
+join,VERB
+leverage,VERB
+maintain,VERB
+manipulate,VERB
+merge,VERB
+monitor,VERB
+move,VERB
+normalize,VERB
+notify,VERB
+optimize,VERB
+organize,VERB
+parse,VERB
+partition,VERB
+perform,VERB
+persist,VERB
+populate,VERB
+predict,VERB
+prepare,VERB
+preserve,VERB
+prioritize,VERB
+produce,VERB
+protect,VERB
+provision,VERB
+publish,VERB
+pull,VERB
+push,VERB
+realign,VERB
+reboot,VERB
+receive,VERB
+recognize,VERB
+reconfigure,VERB
+recover,VERB
+refactor,VERB
+refine,VERB
+register,VERB
+reinforce,VERB
+reject,VERB
+rely,VERB
+render,VERB
+replicate,VERB
+require,VERB
+resolve,VERB
+retrieve,VERB
+revise,VERB
+route,VERB
+run,VERB
+segment,VERB
+select,VERB
+serialize,VERB
+set,VERB
+setup,VERB
+share,VERB
+simulate,VERB
+specify,VERB
+split,VERB
+stop,VERB
+structure,VERB
+subscribe,VERB
+synchronize,VERB
+synthesize,VERB
+tag,VERB
+transform,VERB
+transmit,VERB
+tune,VERB
+uninstall,VERB
+unite,VERB
+validate,VERB
+visualize,VERB
+write,VERB
+Central Processing Unit (CPU),HARDWARE
+Motherboard,HARDWARE
+Random Access Memory (RAM),HARDWARE
+Solid State Drive (SSD),HARDWARE
+Hard Disk Drive (HDD),HARDWARE
+Graphics Processing Unit (GPU),HARDWARE
+Power Supply Unit (PSU),HARDWARE
+Cooling Fan,HARDWARE
+Heat Sink,HARDWARE
+Webcam,HARDWARE
+Speakers,HARDWARE
+Network Interface Card (NIC),HARDWARE
+Switch,HARDWARE
+Modem,HARDWARE
+Cable,HARDWARE
+Wireless Access Point (WAP),HARDWARE
+Repeater,HARDWARE
+Power over Ethernet (PoE) injector,HARDWARE
+Patch Panel,HARDWARE
+Server Rack,HARDWARE
+Server Blade,HARDWARE
+RAM,HARDWARE
+Storage Controller,HARDWARE
+Hot-Swappable Drives,HARDWARE
+KVM Switch,HARDWARE
+Power Distribution Unit (PDU),HARDWARE
+Management Software,HARDWARE
+Sound Card,HARDWARE
+Optical Drive,HARDWARE
+Touchscreen Monitor,HARDWARE
+Trackpad,HARDWARE
+Network Analyzer,HARDWARE
+Network Tap,HARDWARE
+Load Balancer,HARDWARE
+VPN Gateway,HARDWARE
+Virtual Machine (VM),HARDWARE
+Hypervisor,HARDWARE
+Backup Software,HARDWARE
+Wireless Adapter,HARDWARE
+Fiber Optic Cable,HARDWARE
+Coaxial Cable,HARDWARE
+Punch Down Tool,HARDWARE
+Remote Desktop Software,HARDWARE
+Digital Pen,HARDWARE
+Network Attached Storage (NAS),HARDWARE
+Disaster Recovery Plan,HARDWARE
+Network Management System (NMS),HARDWARE
+Virtual Reality (VR) Headset,HARDWARE
+Augmented Reality (AR) Glasses,HARDWARE
+Intrusion Detection System (IDS),HARDWARE
+Intrusion Prevention System (IPS),HARDWARE
+Bare Metal Server,HARDWARE
+Cloud Server,HARDWARE
+3D Printer,HARDWARE
+Network Segmentation,HARDWARE
+VLAN,HARDWARE
+Quality of Service (QoS),HARDWARE
+Braille Display,HARDWARE
+Joystick,HARDWARE
+Gaming Mouse,HARDWARE
+Containerization,HARDWARE
+Kubernetes,HARDWARE
+Software-Defined Networking (SDN),HARDWARE
+Smartwatch,HARDWARE
+Smart Speaker,HARDWARE
+Multi-Factor Authentication (MFA),HARDWARE
+Identity and Access Management (IAM),HARDWARE
+Headset,HARDWARE
+File Server,HARDWARE
+Mail Server,HARDWARE
+Scanner,HARDWARE
+Projector,HARDWARE
+Print Server,HARDWARE
+Database Server,HARDWARE
+Document Camera,HARDWARE
+Application Delivery Controller (ADC),HARDWARE
+Web Application Firewall (WAF),HARDWARE
+Raspberry Pi,HARDWARE
+Single-Board Computer (SBC),HARDWARE
+Mesh Network,HARDWARE
+High Availability (HA),HARDWARE
+Demilitarized Zone (DMZ),HARDWARE
+Curved Monitor,HARDWARE
+Ultrawide Monitor,HARDWARE
+Network Time Protocol (NTP) Server,HARDWARE
+Disaster Recovery as a Service (DRaaS),HARDWARE
+Gaming Keyboard,HARDWARE
+Gaming Mousepad,HARDWARE
+Software-Defined Wide Area Network (SD-WAN),HARDWARE
+Infrastructure as a Service (IaaS),HARDWARE
+Smart TV,HARDWARE
+Voice over IP (VoIP),HARDWARE
+Platform as a Service (PaaS),HARDWARE
+Video Conferencing System,HARDWARE
+Software as a Service (SaaS),HARDWARE
+Smart Home Hub,HARDWARE
+Biometric Authentication,HARDWARE
+Function as a Service (FaaS),HARDWARE
+Folding Keyboard,HARDWARE
+API Gateway,HARDWARE
+Serverless Computing,HARDWARE
+Web Application Security Scanner (WASS),HARDWARE
+Customer Service Representative,USER
+Sales Representative,USER
+Marketing Manager,USER
+Accountant,USER
+Human Resources Specialist,USER
+Warehouse Worker,USER
+Delivery Driver,USER
+Field Technician,USER
+Teacher,USER
+Librarian,USER
+Restaurant Manager,USER
+Cashier,USER
+Business Analyst,USER
+Product Owner,USER
+Software Architect,USER
+User Experience (UX) Designer,USER
+User Interface (UI) Designer,USER
+Software Developer (Front-End),USER
+Software Developer (Back-End),USER
+Quality Assurance (QA) Tester,USER
+DevOps Engineer,USER
+Security Engineer,USER
+Database Administrator (DBA),USER
+Release Manager,USER
+Technical Writer,USER
+Project Manager,USER
+Program Manager,USER
+Chief Information Officer (CIO),USER
+Chief Technology Officer (CTO),USER
+Product Manager,USER
+Business Development Manager,USER
+Marketing Director,USER
+Privacy Officer,USER
+Compliance Officer,USER
+Legal Counsel,USER
+Partner,USER
+Regulatory Agency Representative,USER
+Lawyer,USER
+Architect,USER
+Graphic Designer,USER
+Data Analyst,USER
+Data Scientist,USER
+Machine Learning Engineer,USER
+Business Intelligence Specialist,USER
+Content Creator,USER
+Community Manager,USER
+Social Media Manager,USER
+Customer Success Manager,USER
+Help Desk Analyst,USER
+System Support Specialist,USER
+Power User,USER
+Super User,USER
+Content Moderator,USER
+System Integrator,USER
+Data Entry Specialist,USER
+Report Generator,USER
+Executive Sponsor,USER
+Subject Matter Expert (SME),USER
+End User Advocate,USER
+Internal Auditor,USER
+Security Analyst,USER
+Penetration Tester,USER
+Security Auditor,USER
+Identity and Access Management (IAM) Administrator,USER
+Mobile App User,USER
+Wearable App User,USER
+Anonymous User,USER
+Disabled User,USER
+Multilingual User,USER
+Data Consumer,USER
+Data Provider,USER
+Report Viewer,USER
+Advanced User,USER
+Legacy User,USER
